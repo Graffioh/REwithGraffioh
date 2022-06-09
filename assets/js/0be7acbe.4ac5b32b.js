@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[1462],{5609:function(a){a.exports=JSON.parse('{"label":"assault-cube","permalink":"/REwithGraffioh/tags/assault-cube","allTagsPath":"/REwithGraffioh/tags","count":1}')}}]);
