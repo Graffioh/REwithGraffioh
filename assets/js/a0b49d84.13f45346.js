@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[1365],{1269:function(e){e.exports=JSON.parse('{"permalink":"/REwithGraffioh/","page":1,"postsPerPage":2,"totalPages":2,"totalCount":4,"nextPage":"/REwithGraffioh/page/2","blogDescription":"Blog","blogTitle":"Blog"}')}}]);

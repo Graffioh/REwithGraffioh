@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[5933],{6578:function(e){e.exports=JSON.parse('{"label":"journey","permalink":"/REwithGraffioh/tags/journey","allTagsPath":"/REwithGraffioh/tags","count":3}')}}]);

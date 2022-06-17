@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[6092],{5421:function(e){e.exports=JSON.parse('{"permalink":"/REwithGraffioh/tags/game-hacking","page":1,"postsPerPage":2,"totalPages":2,"totalCount":3,"nextPage":"/REwithGraffioh/tags/game-hacking/page/2","blogDescription":"Blog","blogTitle":"Blog"}')}}]);
