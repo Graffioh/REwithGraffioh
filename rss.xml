@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
     <channel>
         <title>REwithGraffioh Blog</title>
-        <link>https://REwithGraffioh.github.io/REwithGraffioh/</link>
+        <link>https://graffioh.github.io/REwithGraffioh/</link>
         <description>REwithGraffioh Blog</description>
         <lastBuildDate>Fri, 17 Jun 2022 21:20:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
@@ -10,7 +10,7 @@
         <language>en</language>
         <item>
             <title><![CDATA[External and Internal Cheats (Basics)]]></title>
-            <link>https://REwithGraffioh.github.io/REwithGraffioh/2022/06/17/external-and-internal-assault-cube</link>
+            <link>https://graffioh.github.io/REwithGraffioh/2022/06/17/external-and-internal-assault-cube</link>
             <guid>/2022/06/17/external-and-internal-assault-cube</guid>
             <pubDate>Fri, 17 Jun 2022 21:20:00 GMT</pubDate>
             <description><![CDATA[External and Internal are two types of Cheats, both of them are good, and of course they have pros and cons.]]></description>
@@ -23,7 +23,7 @@ Now We need the health Address to write to it, the offset is already reversed, b
         </item>
         <item>
             <title><![CDATA[Reversing Assault Cube (v1.2.0.2)]]></title>
-            <link>https://REwithGraffioh.github.io/REwithGraffioh/2022/06/09/reversing-assault-cube</link>
+            <link>https://graffioh.github.io/REwithGraffioh/2022/06/09/reversing-assault-cube</link>
             <guid>/2022/06/09/reversing-assault-cube</guid>
             <pubDate>Thu, 09 Jun 2022 14:00:00 GMT</pubDate>
             <description><![CDATA[Assault Cube is an Open Source FPS game, now it's outdated, but for practicing game hacking is really good, because the reversing part is easy (except maybe for some functions).]]></description>
@@ -35,7 +35,7 @@ Now We need the health Address to write to it, the offset is already reversed, b
         </item>
         <item>
             <title><![CDATA[The journey so far]]></title>
-            <link>https://REwithGraffioh.github.io/REwithGraffioh/journey-1</link>
+            <link>https://graffioh.github.io/REwithGraffioh/journey-1</link>
             <guid>journey-1</guid>
             <pubDate>Mon, 06 Jun 2022 15:00:00 GMT</pubDate>
             <description><![CDATA[The focus of this journey is to get a good understanding of how an anti-cheat work and how to develop it especially for FPS games.]]></description>
@@ -46,7 +46,7 @@ Now We need the health Address to write to it, the offset is already reversed, b
         </item>
         <item>
             <title><![CDATA[About me]]></title>
-            <link>https://REwithGraffioh.github.io/REwithGraffioh/aboutme</link>
+            <link>https://graffioh.github.io/REwithGraffioh/aboutme</link>
             <guid>aboutme</guid>
             <pubDate>Mon, 06 Jun 2022 10:00:00 GMT</pubDate>
             <description><![CDATA[I'm Umberto, 19 years old from Italy, Computer Science student and passionate about Reverse engineering.]]></description>
